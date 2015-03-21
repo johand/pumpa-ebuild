@@ -10,7 +10,7 @@ inherit qt4-r2 git-2
 
 DESCRIPTION="Pumpa is a simple pump.io client written in C++ and Qt"
 HOMEPAGE="http://saz.im/software/pumpa.html"
-EGIT_REPO_URI="git://gitorious.org/pumpa/pumpa.git"
+EGIT_REPO_URI="git://pumpa.branchable.com/pumpa.git"
 
 LICENSE="GPL-2"
 SLOT="0"
